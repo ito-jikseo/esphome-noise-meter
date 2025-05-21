@@ -1,0 +1,4 @@
+name: noise_meter
+version: "1.0"
+dependencies:
+  - microphone
